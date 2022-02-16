@@ -23,6 +23,12 @@ RUN IN ROS Noetic
 参考：[CSDN-基于OMPL库的RRT*算法](https://blog.csdn.net/weixin_43795921/article/details/102674696#commentBox)
 
 
-# Homework_4_ros
+## Homework_4_ros
 
 参考：[基于ROS的Local Lattice Planner算法代码学习](https://blog.csdn.net/weixin_44558122/article/details/115666344)
+
+## Homework_5_matlab
+
+### Part 1 ：MinimumSnapCloseformSolver()
+参考:[移动机器人路径规划minimum_snap（MATLAB)笔记整理](https://blog.csdn.net/cabbage_hhh/article/details/110141207)
+主要实现了GETQ和GETAeq
